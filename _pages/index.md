@@ -23,7 +23,7 @@ permalink: /
 
 
 - **出身**
-  - 大阪府岸和田市![image](/
+  - 大阪府岸和田市![image](/GHPages_Web
 
 
 
